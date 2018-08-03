@@ -1,0 +1,3 @@
+# Example Next.js Application
+
+To be continued...
