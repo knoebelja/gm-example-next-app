@@ -6,7 +6,7 @@ This is an example Next.js application built to present Next.js features and set
 
 Using the latest stable version of both `node` and `npm` is always recommended.
 
-- node v8.11.1
+- Node v8.11.3
 - npm v6.1.1 
 
 ## Getting Started
