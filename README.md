@@ -7,7 +7,7 @@ This is an example Next.js application built to present Next.js features and set
 - Node.js v8.11.3
 - npm v6.1.1 
 
-Using the latest stable version of both Node.js and npm is always recommended. You can check your current version of both with `node --version` and `npm --version` respectively. To switch between different versions of Node.js and npm, [nvm](https://github.com/creationix/nvm) and [nodenv](https://github.com/nodenv/nodenv) are both great options.
+Using the latest stable version of both Node.js and npm is always recommended. You can check your current version of both with `node --version` and `npm --version` respectively. To switch between different versions of Node.js and npm, [nvm](https://github.com/creationix/nvm) and [nodenv](https://github.com/nodenv/nodenv) are great options.
 
 ## Getting Started
 
