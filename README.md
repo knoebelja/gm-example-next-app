@@ -23,4 +23,4 @@ Build the application with `npm run build` and start it with `npm start`.
 
 ## Learn More
 
-To learn more about Next.js, check out their [github page](https://github.com/zeit/next.js/) and this [great tutorial.](https://nextjs.org/learn) Take a look at [create-next-app](https://github.com/segmentio/create-next-app) for easier setup and examples of how to use Next.js with other technologies like Redux-Saga and Apollo.
+To learn more about using Next.js, check out their [github page](https://github.com/zeit/next.js/) and this [great tutorial.](https://nextjs.org/learn) Take a look at [create-next-app](https://github.com/segmentio/create-next-app) for easier setup and examples of how to use Next.js with other technologies like Redux-Saga and Apollo.
