@@ -4,8 +4,10 @@ This is an example Next.js application built to present Next.js features and set
 
 ## Prerequisites
 
-- Node v8.11.1+
-- NPM v6.1.1+
+Using the latest stable version of both `node` and `npm` is always recommended.
+
+- node v8.11.1
+- npm v6.1.1 
 
 ## Getting Started
 
