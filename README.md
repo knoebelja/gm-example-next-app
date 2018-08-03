@@ -4,7 +4,7 @@ This is an example Next.js application built to present Next.js features and set
 
 ## Getting Started
 
-To get started, `git clone` the repo and `npm install` in the project's root directory.
+To get started, `git clone` the repo and `npm install` from the project's root directory.
 
 ## Development
 
